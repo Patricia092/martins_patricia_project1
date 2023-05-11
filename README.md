@@ -1,5 +1,4 @@
 <h1 align ="center">FOLDER STRUCTURE & TYPOGRAPHY</h1>
-</br>
 
 <h2 align ="center">QU3NCH!</h2>
 
